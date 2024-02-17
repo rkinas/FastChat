@@ -1,14 +1,16 @@
-# LLM Judge
+# LLM Judge - Polish v. 0.1
 | [Paper](https://arxiv.org/abs/2306.05685) | [Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) |
 
-In this package, you can use MT-bench questions and prompts to evaluate your models with LLM-as-a-judge.
+In this package, you can use MT-bench Polish questions and prompts to evaluate your models with LLM-as-a-judge.
 MT-bench is a set of challenging multi-turn open-ended questions for evaluating chat assistants.
 To automate the evaluation process, we prompt strong LLMs like GPT-4 to act as judges and assess the quality of the models' responses.
+
+Oryginal MT-bench dataset is available at [lmsys/mt_bench](https://huggingface.co/datasets/lmsys/mt_bench).
 
 ## Contents
 - [Install](#install)
 - [Review Pre-Generated Model Answers and Judgments](#review-pre-generated-model-answers-and-judgments)
-- [MT-Bench](#mt-bench)
+- [MT-Bench Polish v. 0.1](#mt-bench)
 - [Agreement Computation](#agreement-computation)
 - [Datasets](#datasets)
 - [Citation](#citation)
