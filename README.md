@@ -10,7 +10,8 @@ FastChat's core features include:
 - A distributed multi-model serving system with web UI and OpenAI-compatible RESTful APIs.
 
 ## News
-- [2024/02] Forked repository: released **MT-bench Polish**, Polish traslation of query and prompts [MT-bench Polish](https://github.com/rkinas/FastChat/tree/main/fastchat/llm_judge).] 🔥 We released **LMSYS-Chat-1M**, a large-scale real-world LLM conversation dataset. Read the [report](https://arxiv.org/abs/2309.11998).
+- [2024/02] Forked repository: released **MT-bench Polish**, Polish traslation of query and prompts [MT-bench Polish](https://github.com/rkinas/FastChat/tree/main/fastchat/llm_judge).
+- 🔥 We released **LMSYS-Chat-1M**, a large-scale real-world LLM conversation dataset. Read the [report](https://arxiv.org/abs/2309.11998).
 - [2023/08] We released **Vicuna v1.5** based on Llama 2 with 4K and 16K context lengths. Download [weights](#vicuna-weights).
 - [2023/07] We released **Chatbot Arena Conversations**, a dataset containing 33k conversations with human preferences. Download it [here](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations).
 
