@@ -126,7 +126,7 @@ python show_result.py --mode pairwise-all
 
 ### How to plot the radar figure?
 
-You can use this [colab notebook](https://colab.research.google.com/drive/15O3Y8Rxq37PuMlArE291P4OC6ia37PQK#scrollTo=5i8R0l-XqkgO) to plot the radar figure for MT-bench.
+You can use this [colab notebook](https://colab.research.google.com/drive/1Ij-tvLht5A7WdenuDIAK_sBEez4qqkki#scrollTo=4l1bzYM2bgDW) to plot the radar figure for MT-bench.
 
 <img src="data/mt_bench/misc/radar.png" width="600" height="450">
 
