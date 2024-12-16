@@ -1,3 +1,8 @@
+# Polish MT-Bench
+This repo contains Polish MT-Bench used for LLM evaluation in Polish language. 
+
+
+
 # FastChat
 | [**Demo**](https://chat.lmsys.org/) | [**Discord**](https://discord.gg/HSWAKCrnFx) | [**X**](https://x.com/lmsysorg) |
 
